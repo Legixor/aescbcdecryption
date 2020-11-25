@@ -11,5 +11,5 @@ Then run the script with decrypt.py <file>
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-# Licence
+# Disclaimer
 I decline all responsibility for any malicious use of this software.
