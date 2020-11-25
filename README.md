@@ -7,7 +7,7 @@ Python installed with crypto libs.
 # Usage
 modify the "key" part as you need, same thing for the vector.
 
-Then run the script with decrypt.py <file>
+Then run the script with  " py decrypt.py <file>" or "python decrypt.py <file>"
 
 # Licence
 This project is licensed under the MIT License - see the LICENSE file for details.
